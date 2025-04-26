@@ -1,5 +1,6 @@
-name = "pennydada"
-compatibility_date = "2025-04-26"
+name = "www"
+compatibility_date = "2024-02-22"
+pages_build_output_dir = "dist"
 
 [site]
 bucket = "./dist"
